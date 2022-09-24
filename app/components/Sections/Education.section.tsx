@@ -1,6 +1,6 @@
 const Education = () => {
   return (
-    <div className="font-sen my-16 px-3 text-white" id="skills">
+    <div className="font-sen my-16 px-3 text-white" id="education">
       <p className="text-3xl font-bold text-white">Education</p>
       <div className="text-md custom:text-lg my-8 flex flex-col font-medium md:text-xl">
         <p className="display:block text-slate-300-between flex-row items-center border-b-[0.1px] border-gray-500 py-1">
