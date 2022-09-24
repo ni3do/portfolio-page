@@ -24,4 +24,3 @@ Install dependencies and start the project:
 # Template
 
 Template by [anurak](https://github.com/kr-anurag/portfolio)
-# portfolio-page
