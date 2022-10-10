@@ -1,8 +1,0 @@
-version: "3"
-services:
-  portfolio-page:
-    build:
-      context: ./
-    ports:
-      - "3000:3000"
-    container_name: portfolio-page
