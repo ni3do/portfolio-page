@@ -1,6 +1,13 @@
 import type { NextPage } from "next";
 
-import { About, Contact, Education, Header, Projects, Skills } from ".";
+import {
+  About,
+  Contact,
+  Education,
+  Header,
+  Projects,
+  Skills,
+} from "../components";
 
 const Home: NextPage = () => {
   return (
