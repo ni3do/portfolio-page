@@ -1,5 +1,4 @@
 import type { NextComponentType } from "next";
-
 import Image from "next/image";
 
 const About: NextComponentType = () => {
@@ -17,8 +16,7 @@ const About: NextComponentType = () => {
 
       <div className="custom:block hidden">
         <Image
-          src="/assests/naruto_avatar.jpeg"
-          layout="intrinsic"
+          src="/public/images/naruto_avatar.png"
           width="250"
           height="250"
           className="rounded-full"
