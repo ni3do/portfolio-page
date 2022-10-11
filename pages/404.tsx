@@ -1,6 +1,5 @@
 import type { NextPage } from "next";
 
-import { Image } from "@mantine/core";
 import { useRouter } from "next/router";
 
 const ErrorPage: NextPage = () => {
@@ -10,7 +9,7 @@ const ErrorPage: NextPage = () => {
     <>
       <div className="align-center flex min-h-screen min-w-full flex-col justify-center bg-[#fafdfe]">
         <div className="flex w-full flex-col items-center justify-center">
-          <Image
+          <img
             src="/images/404.svg"
             width={600}
             height={300}

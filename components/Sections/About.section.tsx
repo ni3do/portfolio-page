@@ -1,4 +1,3 @@
-import { Avatar } from "@mantine/core";
 import type { NextComponentType } from "next";
 
 const About: NextComponentType = () => {
@@ -15,10 +14,10 @@ const About: NextComponentType = () => {
       </div>
 
       <div className="custom:block hidden">
-        <Avatar
+        <img
           src="/images/naruto_avatar.png"
-          size={200}
-          radius={200}
+          width={200}
+          className="rounded-full"
           alt="avatar"
         />
       </div>
