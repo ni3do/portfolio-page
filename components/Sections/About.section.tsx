@@ -1,5 +1,5 @@
+import { Avatar } from "@mantine/core";
 import type { NextComponentType } from "next";
-import Image from "next/image";
 
 const About: NextComponentType = () => {
   return (
@@ -15,11 +15,10 @@ const About: NextComponentType = () => {
       </div>
 
       <div className="custom:block hidden">
-        <Image
-          src="/public/images/naruto_avatar.png"
-          width="250"
-          height="250"
-          className="rounded-full"
+        <Avatar
+          src="/images/naruto_avatar.png"
+          size={200}
+          radius={200}
           alt="avatar"
         />
       </div>

@@ -33,11 +33,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         ]}
       />
       <Head>
-        <link
-          rel="icon"
-          type="image/png"
-          href="/public/images/naruto_avatar.png"
-        />
+        <link rel="icon" type="image/png" href="/images/naruto_avatar.png" />
       </Head>
       <Component {...pageProps} />
     </>
