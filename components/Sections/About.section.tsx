@@ -8,7 +8,7 @@ const About: NextComponentType = () => {
         <p className="mt-1 text-lg text-gray-300">Student and Developer</p>
 
         <p className="mt-4 text-gray-400">
-          I am interested in technology, programming and physics. I study
+          I am interested in technology, programming and finance. I study
           computer science at ETH Zürich.
         </p>
       </div>

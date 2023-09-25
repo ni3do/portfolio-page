@@ -6,6 +6,18 @@ const Projects: NextComponentType = () => {
       <p className="text-3xl font-bold text-white">Featured Projects</p>
       <div className="my-8 flex flex-col items-center justify-center gap-10 sm:flex-row">
         <a
+          href="/assets/road-segmentation.pdf"
+          // download
+          className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"
+          // target="_blank"
+          // rel="noopener noreferrer"
+        >
+          <div className="bg-primary flex h-full w-full flex-col items-center justify-center rounded-lg px-2 text-center font-medium">
+            <p className="text-xl font-semibold">Road Segmentation</p>
+            <p>Detect roads in satellite images</p>
+          </div>
+        </a>
+        <a
           href="/assets/Critique_of_MemXCT_memory-centric_X-ray_CT_reconstruction_with_massive_parallelization_by_SCC_Team_from_ETH_Zrich.pdf"
           // download
           className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"

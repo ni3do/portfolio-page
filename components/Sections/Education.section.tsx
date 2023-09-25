@@ -8,7 +8,7 @@ const Education = () => {
             ETH Zürich &nbsp; Master of Computer Science
           </span>
 
-          <span className="float-right">2022-2024, Zürich CH</span>
+          <span className="float-right">2022-2025, Zürich CH</span>
         </p>
         <p>- Major in Machine Intelligence and minor in Data Management</p>
       </div>
