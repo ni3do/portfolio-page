@@ -8,7 +8,7 @@ const Projects: NextComponentType = () => {
         <a
           href="/assets/road-segmentation.pdf"
           // download
-          className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"
+          className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-[#a6e3a1] p-1 text-white duration-100 hover:scale-105"
           // target="_blank"
           // rel="noopener noreferrer"
         >
@@ -20,7 +20,7 @@ const Projects: NextComponentType = () => {
         <a
           href="/assets/Critique_of_MemXCT_memory-centric_X-ray_CT_reconstruction_with_massive_parallelization_by_SCC_Team_from_ETH_Zrich.pdf"
           // download
-          className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#D8B4FE] to-[#818CF8] p-1 text-white duration-100 hover:scale-105"
+          className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-[#fab387] p-1 text-white duration-100 hover:scale-105"
           // target="_blank"
           // rel="noopener noreferrer"
         >
@@ -32,7 +32,7 @@ const Projects: NextComponentType = () => {
         <a
           href="/assets/thesis.pdf"
           // download
-          className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
+          className="h-[8rem] w-[14rem] cursor-pointer rounded-lg bg-[#cba6f7] p-1 text-white duration-100 hover:scale-105"
           // target="_blank"
           // rel="noopener noreferrer"
         >
